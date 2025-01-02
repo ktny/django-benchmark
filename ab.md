@@ -1,4 +1,4 @@
-# ab -n 100 -c 100 したときの比較調査
+# ab -n 100 -c 100 http://localhost:8000 したときの比較調査
 
 # django runserver
 
